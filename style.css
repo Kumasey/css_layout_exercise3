@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    width: 60%;
+    height: 550px;
+    
+}
+
+.li{
+    padding-left: 40px;
+}
+
+#wrap{
+    display: flex;
+    background: gray;
+    margin-left: 250px;
+	
+    
+  }
+
+#nav{
+	background: darkcyan;
+    width: 150px;
+    height: 435px;
+    margin-left: 30px;
+    padding-left: 10px;
+    padding-top: 35px;
+}
+
+#content{
+    background: darkgoldenrod;
+    width: 490px;
+    padding: 40px;
+    height: 390px;
+}
+
+.con{
+    padding-left: 40px;
+}
+
+.copyright{
+    margin-top: 100px;
+}
